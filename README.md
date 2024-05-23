@@ -22,7 +22,7 @@ The Exercise Website is a fully responsive web application that allows users to 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/nishntraut17/fitness-project`
+1. Clone the repository: `git clone https://github.com/JeetDhabre18/fitness-project`
 2. Install dependencies: `npm install`
 
 ## Usage
@@ -45,7 +45,7 @@ Contributions are welcome! If you find any bugs or have ideas for improvements, 
 
 ## Contact
 
-For any inquiries or questions, feel free to contact me at nishntraut17@gmail.com
+For any inquiries or questions, feel free to contact me at jeetdhabre1234@gmail.com
 
 ## Live at
 https://fitness-app-gold-gym.netlify.app/
